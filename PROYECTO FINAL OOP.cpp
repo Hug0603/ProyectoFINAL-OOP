@@ -14,6 +14,7 @@ Un programa final de POO con:
 
  */
  //Gio es lo máximo
+ //Gio es puto
 
 
 #include <iostream>
